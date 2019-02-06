@@ -1,3 +1,6 @@
+### 1 POINTS
+### KEY: Mostly correct, however you didn't set the 'required' attribute for the first, last name, and terms checkbox
+
 # HTML Input 2 CW
 
 Duplicate the form depicted in the included image. Note the following:
